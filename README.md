@@ -61,9 +61,3 @@ The code generates the following outputs:
 **Limitations**
 
 The replication assumes access to Bloomberg data for validation. For security reasons, the raw dataset cannot be included in this repository. The provided .dta file contains the processed version used in the analysis.
-
-Contact
-
-For questions or issues, please contact:
-Jakub Riha
-  Email: jakub.riha22@gmail.com
