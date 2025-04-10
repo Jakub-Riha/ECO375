@@ -11,7 +11,7 @@ This repository contains all necessary materials to replicate the analysis and r
 
 ---
 
-## 📊 Data
+## 🗂️ Datasets
 
 **Source:**  
 Bloomberg Terminal – U.S. corporate bonds with 5–10 year maturities (as of November 7, 2024).
