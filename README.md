@@ -42,22 +42,6 @@ This Stata `.do` file performs the following:
 2. Open the `.do` file in **Stata (v17 or higher)**  
 3. Run the code either line-by-line or all at once  
 
----
-
-## 📈 Output
-
-- **Regression Results:**
-  - Model 6: Interaction terms without controls  
-  - Model 7: Interaction model with added controls  
-
-- **Figures:**
-  - Graph of yield spread slopes comparing investment-grade and junk-grade bonds
-
-- **Tables:**
-  - Summary statistics  
-  - Regression output tables (Model 6 & 7)
-
----
 
 ## ⚙️ Dependencies
 
