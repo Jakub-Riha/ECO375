@@ -1,12 +1,12 @@
 # Credit Ratings and Bond Yield Spreads: Continuous Risk Pricing at the Investment-Grade Threshold 
 
-Replication files for the ECO375 paper
+Replication files & code for an ECO375 course project.
 
 ---
 
 ## 📄 Project Description
 
-This repository contains all necessary materials to replicate the analysis and results presented in the ECO375 project. The study investigates whether bond yield spreads reflect a pricing discontinuity at the threshold between investment-grade and junk-grade credit ratings. Using interaction models, the project explores whether yield spreads are more sensitive to credit quality declines for junk bonds than for investment-grade bonds.
+This repository contains the paper PDF, code, and supporting files, for a regression analysis of Bloomberg-sourced U.S. Corporate Bond Yields. The study investigates whether bond yield spreads reflect a pricing discontinuity at the threshold between investment-grade and junk-grade credit ratings. Using interaction models, the project explores whether yield spreads are more sensitive to credit quality declines for junk bonds than for investment-grade bonds.
 
 ---
 
