@@ -1,7 +1,6 @@
-# ECO375 Replication Project
+# Credit Ratings and Bond Yield Spreads: Continuous Risk Pricing at the Investment-Grade Threshold 
 
-Replication files for the ECO375 paper:  
-**"Credit Ratings and Bond Yield Spreads: Continuous Risk Pricing at the Investment-Grade Threshold"**
+Replication files for the ECO375 paper
 
 ---
 
